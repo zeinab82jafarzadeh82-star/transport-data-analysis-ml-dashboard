@@ -45,8 +45,10 @@
 ![Dashboard Screenshot 2]([screenshots-dashboard/Screenshot 2025-09-05 212611.png](https://github.com/zeinab82jafarzadeh82-star/transport-data-analysis-ml-dashboard/blob/42ed9dd3935af8943420f7ba9a5626e2c746b9a8/screenshots-dashboard/Screenshot%202025-09-05%20212611.png)).
 
 ![Dashboard Screenshot 3]([screenshots-dashboard/Screenshot 2025-09-05 212620.png](https://github.com/zeinab82jafarzadeh82-star/transport-data-analysis-ml-dashboard/blob/31ac5c85acad91c64e2386181534b50d9996db9c/screenshots-dashboard/Screenshot%202025-09-05%20212620.png))
-![Dashboard Screenshot 4]()
-![Dashboard Screenshot 5]()
+
+![Dashboard Screenshot 4]([screenshots-dashboard/Screenshot 2025-09-05 212633.png]())
+
+![Dashboard Screenshot 5]([]())
 
 
 > جایگزین کردن این تصاویر با اسکرین‌شات‌های واقعی داشبورد توصیه می‌شود.
