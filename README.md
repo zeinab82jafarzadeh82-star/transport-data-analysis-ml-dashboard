@@ -39,7 +39,7 @@
    - داشبورد مدیریتی ساخته شده با برنامه Power BI (تصاویر نمایش داده شده، فایل اصلی به دلیل حجم بالا در ریپو موجود نیست).  
 
 ## اسکرین‌شات داشبورد
-![Dashboard Screenshot 1](screenshots-dashboard/Screenshot 2025-09-05 212552.png).
+![Dashboard Screenshot 1]([screenshots-dashboard/Screenshot 2025-09-05 212552.png](https://github.com/zeinab82jafarzadeh82-star/transport-data-analysis-ml-dashboard/blob/93e610a5b0217afa7b17f00e114227d3d76c3808/screenshots-dashboard/Screenshot%202025-09-05%20212552.png)).
 
 ![Dashboard Screenshot 2]([screenshots-dashboard/Screenshot 2025-09-05 212611.png](https://github.com/zeinab82jafarzadeh82-star/transport-data-analysis-ml-dashboard/blob/42ed9dd3935af8943420f7ba9a5626e2c746b9a8/screenshots-dashboard/Screenshot%202025-09-05%20212611.png)).
 
