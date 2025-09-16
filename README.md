@@ -27,20 +27,19 @@
     -بررسی آماری داده‌ها، نمودارهای توزیع و روابط بین ویژگی‌ها.  
 
 2. Machine learning models
-3. مدل‌سازی ماشین لرنینگ (ML)
    - رگرسیون خطی (Linear Regression) و XGBoost برای پیش‌بینی مقادیر عددی.
    - بدست آوردن ضریب تعیین (R2-Score) و تابع هزینه به کمک دو معیار میانگین مربعات خطا (MSE) و ماینگین قدرمطلق خطا (MAE)
    - طبقه‌بندی (Classification) با الگوریتم‌های KNN و SVM.
    - خوشه‌بندی (Clustering) با KMeans و GMM.
    - تشخیص ناهنجاری (Anomaly Detection) با Z-Score و Isolation Forest.
 
-4. ویژوالیزیشن به کمک کتابخانه های پایتون 
+3. ویژوالیزیشن به کمک کتابخانه های پایتون 
    - نمودارهای Matplotlib، Seaborn و Plotly برای تحلیل داده‌ها.
-5.ایجاد داشبورد مدیریتی 
+4.ایجاد داشبورد مدیریتی 
    - داشبورد مدیریتی ساخته شده با برنامه Power BI (تصاویر نمایش داده شده، فایل اصلی به دلیل حجم بالا در ریپو موجود نیست).  
 
 ## اسکرین‌شات داشبورد
-![Dashboard Screenshot 1]([screenshots-dashboard/Screenshot 2025-09-05 212552.png](https://github.com/zeinab82jafarzadeh82-star/transport-data-analysis-ml-dashboard/blob/80fd73195999701d1fa93e207f8bd889de29aee9/screenshots-dashboard/Screenshot%202025-09-05%20212552.png)).
+![Dashboard Screenshot 1]([screenshots-dashboard/Screenshot-2025-09-05-212552.png]).
 
 ![Dashboard Screenshot 2]([screenshots-dashboard/Screenshot 2025-09-05 212611.png](https://github.com/zeinab82jafarzadeh82-star/transport-data-analysis-ml-dashboard/blob/42ed9dd3935af8943420f7ba9a5626e2c746b9a8/screenshots-dashboard/Screenshot%202025-09-05%20212611.png)).
 
