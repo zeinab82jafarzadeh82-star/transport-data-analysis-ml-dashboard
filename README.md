@@ -64,4 +64,5 @@
 
 ## نحوه اجرا
 1. نوت‌بوک‌ها را در Google Colab باز کنید یا محلی اجرا کنید.
-2. دیتاست را از https://docs.google.com/spreadsheets/d/11P00K5w4Bf0rVSkWlwHUBQkWHT5lY1UW/edit?usp=drive_link&ouid=113637278991604905747&rtpof=true&sd=true  
+2. دیتاست اطلاعت بارنامه استان قم برای سال 1403 را از https://docs.google.com/spreadsheets/d/1kwCukX_VRALxFcDdIfnAxetQiV03LQ_W/edit?usp=drive_link&ouid=113637278991604905747&rtpof=true&sd=true باز کنید.
+3.  دیتاست اطلاعات بارنامه استان قم برای ماه بهمن سال 1403 را از https://docs.google.com/spreadsheets/d/11P00K5w4Bf0rVSkWlwHUBQkWHT5lY1UW/edit?usp=drive_link&ouid=113637278991604905747&rtpof=true&sd=true باز کنید. این دیتاست برای بخش Word-Embedding در فایل Fast_text_embedding_transportation.ipynb شده است.
