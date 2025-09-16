@@ -48,7 +48,9 @@
 
 ![Dashboard Screenshot 4]([screenshots-dashboard/Screenshot 2025-09-05 212633.png](https://github.com/zeinab82jafarzadeh82-star/transport-data-analysis-ml-dashboard/blob/1d920e637bd795e0d76dfff26774ab049489e799/screenshots-dashboard/Screenshot%202025-09-05%20212633.png))
 
-![Dashboard Screenshot 5]([]())
+![Dashboard Screenshot 5]([screenshots-dashboard/Screenshot 2025-09-05 212646.png]())
+
+![Dashboard Screenshot 6]([]())
 
 
 > جایگزین کردن این تصاویر با اسکرین‌شات‌های واقعی داشبورد توصیه می‌شود.
