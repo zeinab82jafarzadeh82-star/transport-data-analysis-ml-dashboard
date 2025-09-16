@@ -57,14 +57,11 @@
 - ارائه مدل‌های پیش‌بینی و طبقه‌بندی با دقت مناسب.
 - تشخیص ناهنجاری‌ها و شناسایی الگوهای غیرمعمول در داده‌ها.
 - ارائه داشبورد مدیریتی برای بررسی سریع داده‌ها و شاخص‌ها.
-- توضیح نتایج بدست آمده و توضیح خط به خط کدها در pdfهای باگذاری شده به نام های ذخیره شده اند.
+- توضیح نتایج بدست آمده و توضیح خط به خط کدها در pdfهای باگذاری شده به نام های report1 و report2 ذخیره شده اند.
 - ([report1.pdf](https://github.com/zeinab82jafarzadeh82-star/transport-data-analysis-ml-dashboard/blob/f982ee8ecca65d94195dbffc38fe11da06e965fb/report1.pdf)).
 
 - ([report2.pdf](https://github.com/zeinab82jafarzadeh82-star/transport-data-analysis-ml-dashboard/blob/8892b87d6697cb9d29c88f37a2c19d8071494584/report2.pdf)).
 
 ## نحوه اجرا
 1. نوت‌بوک‌ها را در Google Colab باز کنید یا محلی اجرا کنید.
-2. دیتاست را از فایل ZIP در مسیر مناسب قرار دهید.
-3. کتابخانه‌های مورد نیاز:  
-   `bash
-   pip install pandas numpy matplotlib seaborn plotly scikit-learn
+2. دیتاست را از https://docs.google.com/spreadsheets/d/11P00K5w4Bf0rVSkWlwHUBQkWHT5lY1UW/edit?usp=drive_link&ouid=113637278991604905747&rtpof=true&sd=true  
