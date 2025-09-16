@@ -60,6 +60,8 @@
 - توضیح نتایج بدست آمده و توضیح خط به خط کدها در pdfهای باگذاری شده به نام های ذخیره شده اند.
 - ([report1.pdf](https://github.com/zeinab82jafarzadeh82-star/transport-data-analysis-ml-dashboard/blob/f982ee8ecca65d94195dbffc38fe11da06e965fb/report1.pdf)).
 
+- ([report2.pdf](https://github.com/zeinab82jafarzadeh82-star/transport-data-analysis-ml-dashboard/blob/8892b87d6697cb9d29c88f37a2c19d8071494584/report2.pdf)).
+
 ## نحوه اجرا
 1. نوت‌بوک‌ها را در Google Colab باز کنید یا محلی اجرا کنید.
 2. دیتاست را از فایل ZIP در مسیر مناسب قرار دهید.
