@@ -40,7 +40,7 @@
    - داشبورد مدیریتی ساخته شده با برنامه Power BI (تصاویر نمایش داده شده، فایل اصلی به دلیل حجم بالا در ریپو موجود نیست).  
 
 ## اسکرین‌شات داشبورد
-![Dashboard Screenshot 1](screenshots/dashboard1.png)
+![Dashboard Screenshot 1](screenshots-dashboard/Screenshot 2025-09-05 212552.png)
 ![Dashboard Screenshot 2](screenshots/dashboard2.png)
 
 > جایگزین کردن این تصاویر با اسکرین‌شات‌های واقعی داشبورد توصیه می‌شود.
