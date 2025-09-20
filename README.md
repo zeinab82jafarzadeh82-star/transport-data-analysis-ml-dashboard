@@ -6,7 +6,7 @@
 ### دیتاست اطلاعات بارنامه استان قم در سال 1403
 این دیتاست دارای 43 ویژگی و ستون است و تعداد رکوردهای این دیتاست حدود 600000 است. نام ستون های این دیتاست به شرح زیر است :
 Value added insurance , premium	Received from the driver , Scale fee	Evacuation fee	, added value	Complications of moving goods	, Bill of lading registration time	, Tracking code watch	Date of interception	, Company commission ,	Insurance amount ,	Loading fee ,	Total fare	, Recipient's national ID	, Sender's National ID	, Postal code of recipient	, Postal code of the sender	Interception	, Device smart card	, Driver smart card ,	Packaging code ,	License plate code ,	Serial code	, License plate number	,	Delivery date ,	Date of issue ,	Loader code	, The name of the destination city ,	Destination city code ,	Name of the city of origin ,	Code of the city of origin ,	product name ,	Product code ,	distance ,	weight ,	Calculation fare	, rent ,	bill of lading number ,	Bill of lading series ,	Company name ,	Company code ,	year.
-<img width="3454" height="133" alt="image" src="https://github.com/user-attachments/assets/afd37fab-dbbc-4506-a170-94fa0fc285f2" />
+<img width="345400" height="1330" alt="image" src="https://github.com/user-attachments/assets/afd37fab-dbbc-4506-a170-94fa0fc285f2" />
 
 
 ## محتویات پروژه
